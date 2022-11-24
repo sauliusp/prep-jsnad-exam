@@ -1,5 +1,7 @@
 # Folder structure & organization
 
+--- WORK IN PROGRESS ---
+
 fe masters;
 articles;
 books;
