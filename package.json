@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "pdfkit": "^0.13.0",
+    "through2": "^4.0.2"
   }
 }
